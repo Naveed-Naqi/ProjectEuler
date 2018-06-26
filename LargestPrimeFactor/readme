@@ -1,0 +1,8 @@
+My initial idea with this problem was to prime factorize the number by checking to see if it was divisible by any numbers from 1-9.
+Then I would divide the number by whatever it was divisible by and reapeat the process until I only had prime factors. 
+The entire time this was happening I would be checking to see if any of the numbers in the division were prime.
+If they were prime I would have another variable that would hold that prime number. If I ever encountered a larger prime number in the division
+process, then I would update my maxPrime variable to hold that bigger number. 
+
+This algorithim seems so long and inefficent that I don't even want to bother implemenenting it. Instead, I will task myself with 
+reasearching efficent algorithms and changing the way some of my previous problems work to make them more efficent as well. 
